@@ -31,3 +31,5 @@ f
 6.idea/src/classes/constructors/basic_constructors.dart,2\7\27d6cfd1402e1479dee2c44db21c4398b9f39e8d
 r
 B.idea/src/classes/constructors/initializing_formal_parameters.dart,d\b\db540c1f86da18a21bffec7cc3273c47d8d886ca
+f
+6.idea/src/classes/constructors/named_constructors.dart,a\7\a7acb2f8aa8b118b43032472f9e5993b3e484c66
