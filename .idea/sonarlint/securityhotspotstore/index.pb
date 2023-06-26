@@ -33,3 +33,7 @@ r
 B.idea/src/classes/constructors/initializing_formal_parameters.dart,d\b\db540c1f86da18a21bffec7cc3273c47d8d886ca
 f
 6.idea/src/classes/constructors/named_constructors.dart,a\7\a7acb2f8aa8b118b43032472f9e5993b3e484c66
+d
+4.idea/src/classes/constructors/super_parameters.dart,b\0\b0e910cd18a0d57d6017cdf71c7a1822f7a8f453
+u
+E.idea/src/classes/constructors/invoking_non_default_constructors.dart,2\8\28d6525ed929557d04100ad7b2fabed52a5a54d6
