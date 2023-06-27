@@ -37,3 +37,7 @@ d
 4.idea/src/classes/constructors/super_parameters.dart,b\0\b0e910cd18a0d57d6017cdf71c7a1822f7a8f453
 u
 E.idea/src/classes/constructors/invoking_non_default_constructors.dart,2\8\28d6525ed929557d04100ad7b2fabed52a5a54d6
+l
+<.idea/src/classes/constructors/redirecting_constructors.dart,7\0\708f905b3188650ff1286dd429b3256759ffea93
+d
+4.idea/src/classes/constructors/initializer_list.dart,6\0\60ac9bce9477248a5bfcd8725f6fabf5ca56c8b1
