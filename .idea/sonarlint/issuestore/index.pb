@@ -41,3 +41,17 @@ l
 <.idea/src/classes/constructors/redirecting_constructors.dart,7\0\708f905b3188650ff1286dd429b3256759ffea93
 d
 4.idea/src/classes/constructors/initializer_list.dart,6\0\60ac9bce9477248a5bfcd8725f6fabf5ca56c8b1
+D
+.idea/src/regex.dart,4\7\471d22dd9143bd90fdc7874f6a680854aa30951f
+i
+9.idea/src/classes/constructors/constant_constructors.dart,e\1\e1bd17ed6f3654f40b6feec49239100085f558db
+Y
+).idea/src/codewars/find stray number.dart,7\c\7c1dc8e18f5c4207a9894677ba35cd62cbce15ab
+U
+%.idea/src/codewars/men from boys.dart,9\c\9c8d385547ff405c1622541edf54ace54187f2d6
+X
+(.idea/src/codewars/reverse a string.dart,1\a\1a4506c3f24c7c46630ce74b6c4f09ea367f1d55
+[
++.idea/src/codewars/longest vowel chain.dart,f\2\f241405ca0bd32baf6b06f60c284989bf93f481e
+U
+%.idea/src/codewars/count x and o.dart,0\a\0a2aec60ee2c0a47c995dbf122f18dd61a32867c
