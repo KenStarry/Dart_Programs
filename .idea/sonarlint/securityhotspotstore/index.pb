@@ -55,3 +55,5 @@ X
 +.idea/src/codewars/longest vowel chain.dart,f\2\f241405ca0bd32baf6b06f60c284989bf93f481e
 U
 %.idea/src/codewars/count x and o.dart,0\a\0a2aec60ee2c0a47c995dbf122f18dd61a32867c
+U
+%.idea/src/codewars/valid_spacing.dart,b\8\b8775bb22bdce9de70003dec3d28cbb30c7689c9
