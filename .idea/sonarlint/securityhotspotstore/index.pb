@@ -57,3 +57,11 @@ U
 %.idea/src/codewars/count x and o.dart,0\a\0a2aec60ee2c0a47c995dbf122f18dd61a32867c
 U
 %.idea/src/codewars/valid_spacing.dart,b\8\b8775bb22bdce9de70003dec3d28cbb30c7689c9
+S
+#.idea/src/codewars/incrementer.dart,9\6\96abb493d3fd90ec9385e7ff799e09bcf44b84c7
+O
+.idea/src/codewars/century.dart,c\f\cfcd503abb1ad4ab34d7823c6c22c0884e8a1c22
+\
+,.idea/src/codewars/remove string spaces.dart,4\2\42092bd59f649572ec7eb5fbbbf57578a833b886
+W
+'.idea/src/codewars/sum of positive.dart,0\d\0d36be13e690d419f0341cbf1593003af1ed9d84
