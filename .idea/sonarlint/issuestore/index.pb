@@ -65,3 +65,5 @@ O
 ,.idea/src/codewars/remove string spaces.dart,4\2\42092bd59f649572ec7eb5fbbbf57578a833b886
 W
 '.idea/src/codewars/sum of positive.dart,0\d\0d36be13e690d419f0341cbf1593003af1ed9d84
+]
+-.idea/src/codewars/even numbers in array.dart,6\6\660062464a6dfd5fbe0756be3b09a2bfe5e5d62c
