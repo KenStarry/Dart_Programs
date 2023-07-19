@@ -67,3 +67,9 @@ W
 '.idea/src/codewars/sum of positive.dart,0\d\0d36be13e690d419f0341cbf1593003af1ed9d84
 ]
 -.idea/src/codewars/even numbers in array.dart,6\6\660062464a6dfd5fbe0756be3b09a2bfe5e5d62c
+Y
+).idea/src/codewars/extension example.dart,b\0\b0a0484312e7952699b85f341aa21ee8e2046e91
+V
+&.idea/src/codewars/sum of numbers.dart,b\1\b165b1eaaec529a42bd5d942c2585efcd075eb78
+S
+#.idea/src/codewars/smiley face.dart,8\a\8ae5c1c9d2d9c446b33251eaa79ffaf7835522ea
