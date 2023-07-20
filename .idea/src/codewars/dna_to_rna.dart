@@ -1,0 +1,1 @@
+String rnaToDna(String dna) => dna.replaceAll('T', 'U');
