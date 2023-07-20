@@ -73,3 +73,17 @@ V
 &.idea/src/codewars/sum of numbers.dart,b\1\b165b1eaaec529a42bd5d942c2585efcd075eb78
 S
 #.idea/src/codewars/smiley face.dart,8\a\8ae5c1c9d2d9c446b33251eaa79ffaf7835522ea
+U
+%.idea/src/codewars/binary_to_int.dart,5\4\54951c7c3849c1c507ca4695481cb699dceaa184
+V
+&.idea/src/codewars/capitalization.dart,e\e\ee6fc0aa75ba53d3d8a3ee8a5e707fea6435d576
+O
+.idea/src/codewars/quarter.dart,1\a\1a0c88a032b3048b479b2fdaabacbb05466f2c8e
+W
+'.idea/src/codewars/check_uppercase.dart,3\7\37cb79b61995e96144eca7846a6cdf7a6500082f
+N
+.idea/src/codewars/stairs.dart,7\9\79bab72d37b1ec079ac236e69823c00b6db27645
+R
+".idea/src/codewars/happy_year.dart,6\a\6a8b834d9722560ccc3c8cfea56003bca8123dd4
+S
+#.idea/src/codewars/max_product.dart,2\d\2d9c5cfcaa6480ea12704e7026893b438019ae26
