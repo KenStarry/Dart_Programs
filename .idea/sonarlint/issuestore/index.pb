@@ -45,18 +45,8 @@ D
 .idea/src/regex.dart,4\7\471d22dd9143bd90fdc7874f6a680854aa30951f
 i
 9.idea/src/classes/constructors/constant_constructors.dart,e\1\e1bd17ed6f3654f40b6feec49239100085f558db
-U
-%.idea/src/codewars/valid_spacing.dart,b\8\b8775bb22bdce9de70003dec3d28cbb30c7689c9
-W
-'.idea/src/codewars/sum of positive.dart,0\d\0d36be13e690d419f0341cbf1593003af1ed9d84
-V
-&.idea/src/codewars/sum of numbers.dart,b\1\b165b1eaaec529a42bd5d942c2585efcd075eb78
-T
-$.idea/src/codewars/stary_number.dart,4\a\4a3b8970e7c75272acef9a2ed2dc76944323977e
 Y
 ).idea/src/codewars/area_or_perimeter.dart,7\f\7fecce9d94f358cdd42f5e3165dc56e6dd818851
-S
-#.idea/src/codewars/tidy_number.dart,8\9\8932a5d1aab31869e3286e95839265f2af394438
 _
 /.idea/src/codewars/adjacent_multiplication.dart,2\6\26d92ca592e16a94a08bf785e505e3ce4b8b8b61
 W
@@ -87,12 +77,8 @@ M
 .idea/src/codewars/greet.dart,c\6\c652da421fade3f74e8b931c4d8f1360c726c8c4
 R
 ".idea/src/codewars/happy_year.dart,6\a\6a8b834d9722560ccc3c8cfea56003bca8123dd4
-S
-#.idea/src/codewars/incrementer.dart,9\6\96abb493d3fd90ec9385e7ff799e09bcf44b84c7
 W
 '.idea/src/codewars/litres_of_water.dart,4\0\401095d14bd0eed13c80b1d47157ee4e03fe8f4b
-[
-+.idea/src/codewars/longest vowel chain.dart,f\2\f241405ca0bd32baf6b06f60c284989bf93f481e
 S
 #.idea/src/codewars/max_product.dart,2\d\2d9c5cfcaa6480ea12704e7026893b438019ae26
 U
