@@ -45,45 +45,57 @@ D
 .idea/src/regex.dart,4\7\471d22dd9143bd90fdc7874f6a680854aa30951f
 i
 9.idea/src/classes/constructors/constant_constructors.dart,e\1\e1bd17ed6f3654f40b6feec49239100085f558db
-Y
-).idea/src/codewars/find stray number.dart,7\c\7c1dc8e18f5c4207a9894677ba35cd62cbce15ab
-U
-%.idea/src/codewars/men from boys.dart,9\c\9c8d385547ff405c1622541edf54ace54187f2d6
-X
-(.idea/src/codewars/reverse a string.dart,1\a\1a4506c3f24c7c46630ce74b6c4f09ea367f1d55
-[
-+.idea/src/codewars/longest vowel chain.dart,f\2\f241405ca0bd32baf6b06f60c284989bf93f481e
-U
-%.idea/src/codewars/count x and o.dart,0\a\0a2aec60ee2c0a47c995dbf122f18dd61a32867c
 U
 %.idea/src/codewars/valid_spacing.dart,b\8\b8775bb22bdce9de70003dec3d28cbb30c7689c9
-S
-#.idea/src/codewars/incrementer.dart,9\6\96abb493d3fd90ec9385e7ff799e09bcf44b84c7
-O
-.idea/src/codewars/century.dart,c\f\cfcd503abb1ad4ab34d7823c6c22c0884e8a1c22
-\
-,.idea/src/codewars/remove string spaces.dart,4\2\42092bd59f649572ec7eb5fbbbf57578a833b886
 W
 '.idea/src/codewars/sum of positive.dart,0\d\0d36be13e690d419f0341cbf1593003af1ed9d84
-]
--.idea/src/codewars/even numbers in array.dart,6\6\660062464a6dfd5fbe0756be3b09a2bfe5e5d62c
-Y
-).idea/src/codewars/extension example.dart,b\0\b0a0484312e7952699b85f341aa21ee8e2046e91
 V
 &.idea/src/codewars/sum of numbers.dart,b\1\b165b1eaaec529a42bd5d942c2585efcd075eb78
+T
+$.idea/src/codewars/stary_number.dart,4\a\4a3b8970e7c75272acef9a2ed2dc76944323977e
+Y
+).idea/src/codewars/area_or_perimeter.dart,7\f\7fecce9d94f358cdd42f5e3165dc56e6dd818851
 S
-#.idea/src/codewars/smiley face.dart,8\a\8ae5c1c9d2d9c446b33251eaa79ffaf7835522ea
+#.idea/src/codewars/tidy_number.dart,8\9\8932a5d1aab31869e3286e95839265f2af394438
+_
+/.idea/src/codewars/adjacent_multiplication.dart,2\6\26d92ca592e16a94a08bf785e505e3ce4b8b8b61
+W
+'.idea/src/codewars/beginner_series.dart,c\3\c34cbcb860f7dfe32380b7af2fc7512d3b33e0b5
 U
 %.idea/src/codewars/binary_to_int.dart,5\4\54951c7c3849c1c507ca4695481cb699dceaa184
 V
 &.idea/src/codewars/capitalization.dart,e\e\ee6fc0aa75ba53d3d8a3ee8a5e707fea6435d576
 O
-.idea/src/codewars/quarter.dart,1\a\1a0c88a032b3048b479b2fdaabacbb05466f2c8e
+.idea/src/codewars/century.dart,c\f\cfcd503abb1ad4ab34d7823c6c22c0884e8a1c22
 W
 '.idea/src/codewars/check_uppercase.dart,3\7\37cb79b61995e96144eca7846a6cdf7a6500082f
-N
-.idea/src/codewars/stairs.dart,7\9\79bab72d37b1ec079ac236e69823c00b6db27645
+U
+%.idea/src/codewars/count x and o.dart,0\a\0a2aec60ee2c0a47c995dbf122f18dd61a32867c
+R
+".idea/src/codewars/dna_to_rna.dart,3\9\399a1014405375f40152e1bc240a4ec72a0492fa
+]
+-.idea/src/codewars/even numbers in array.dart,6\6\660062464a6dfd5fbe0756be3b09a2bfe5e5d62c
+S
+#.idea/src/codewars/even_or_odd.dart,3\c\3c44d58e89d8870437cd62d9fcfc6cb6de24dc1c
+Y
+).idea/src/codewars/extension example.dart,b\0\b0a0484312e7952699b85f341aa21ee8e2046e91
+Y
+).idea/src/codewars/find stray number.dart,7\c\7c1dc8e18f5c4207a9894677ba35cd62cbce15ab
+]
+-.idea/src/codewars/first_non_consecutive.dart,8\0\8088f511afc29c8699be60182cc2d4a924d466da
+M
+.idea/src/codewars/greet.dart,c\6\c652da421fade3f74e8b931c4d8f1360c726c8c4
 R
 ".idea/src/codewars/happy_year.dart,6\a\6a8b834d9722560ccc3c8cfea56003bca8123dd4
 S
+#.idea/src/codewars/incrementer.dart,9\6\96abb493d3fd90ec9385e7ff799e09bcf44b84c7
+W
+'.idea/src/codewars/litres_of_water.dart,4\0\401095d14bd0eed13c80b1d47157ee4e03fe8f4b
+[
++.idea/src/codewars/longest vowel chain.dart,f\2\f241405ca0bd32baf6b06f60c284989bf93f481e
+S
 #.idea/src/codewars/max_product.dart,2\d\2d9c5cfcaa6480ea12704e7026893b438019ae26
+U
+%.idea/src/codewars/men from boys.dart,9\c\9c8d385547ff405c1622541edf54ace54187f2d6
+N
+.idea/src/codewars/stairs.dart,7\9\79bab72d37b1ec079ac236e69823c00b6db27645
